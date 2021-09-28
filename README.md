@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shyann Francis
+- 👀 I’m interested in Computer Science... specifically Cybersecurity
+- 🌱 I’m currently learning Object Oriented Programming and Algorithms
+- 📫 Reach out to me at shyannfrancis99@gmail.com
